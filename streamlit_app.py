@@ -1,4 +1,4 @@
-pip install ultralytics
+pip install git+https://github.com/ultralytics/ultralytics.git@main
 
 def imhist(img):
     m,n = img.shape
