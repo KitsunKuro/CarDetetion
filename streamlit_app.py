@@ -1,4 +1,4 @@
-!pip install ultralytics
+pip install ultralytics
 
 def imhist(img):
     m,n = img.shape
